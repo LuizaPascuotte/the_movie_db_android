@@ -1,6 +1,8 @@
 # the_movie_app
 
-A new Flutter project.
+Project under the guidance of Master Esdras, professor of mobile development with Flutter and Dart
+
+This project is a practical example of API consumption through Dart providers, applying knowledge acquired in classes
 
 ## Getting Started
 
@@ -14,3 +16,5 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
